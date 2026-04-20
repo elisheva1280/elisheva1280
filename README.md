@@ -34,18 +34,12 @@ Focused on clean architecture, reliable APIs, and seamless frontend-backend inte
 
 ---
 
-## 🚀 Projects
-
-### 🧩 Employee Management System
-Full Stack | FastAPI · MongoDB · React  
-- Built production features used by real users  
-- Implemented APIs, background jobs & alert mechanisms  
-- Developed responsive UI with centralized error handling  
+## 🚀 Selected Project
 
 ### 🤖 AI Learning Platform
 MERN + OpenAI  
 - Dynamic content generation using AI  
-- Auth, filtering, pagination & validation   
+- Authentication, filtering, pagination & validation    
 
 ---
 
