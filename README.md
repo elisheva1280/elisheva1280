@@ -1,95 +1,61 @@
+# 👋 Elisheva Cohen
+**Full Stack Software Developer**
 
-# 👋 Hi, I'm Elisheva Cohen
-
-**Full Stack Software Developer** with hands-on experience building **production-ready, end-to-end systems** used by real users.
-
-I enjoy working across the full stack — designing backend APIs, building reliable frontend experiences, and connecting the two into cohesive, maintainable products. I value clear architecture, clean code, and predictable system behavior, and I take ownership of features from technical specification through production.
+Building production-ready, end-to-end systems used by real users.  
+Focused on clean architecture, reliable APIs, and seamless frontend-backend integration.
 
 ---
 
 ## 🧠 What I Do
-
-- Develop **end-to-end full stack features** from requirements to production  
-- Design and implement **RESTful APIs** with validation and clear contracts  
-- Build **data-driven React applications** with a strong focus on UX and state management  
-- Implement business logic, background tasks, and system workflows  
-- Translate product and design requirements into technical solutions  
-- Work in **Agile teams** with shared ownership, code reviews, and quality standards  
+- Develop full stack features from spec → production  
+- Design robust REST APIs with validation & clear contracts  
+- Build scalable React applications with strong state management  
+- Implement business logic, async flows & system workflows  
+- Work in Agile teams with code reviews and shared ownership  
 
 ---
 
-## 🛠 Tech Stack (Current & Focused)
+## 🛠 Tech Stack
 
-### Core Stack
-**Languages:** Python, TypeScript  
-**Frontend:** React, React Query, Redux, HTML, CSS, TailwindCSS  
-**Backend:** FastAPI, .NET Core Web API, Node.js (Express)  
-**Databases:** MongoDB, SQL Server  
+### Core
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 
-### APIs & Architecture
-- RESTful APIs, async programming, background tasks  
-- JWT authentication, role-based access control  
-- Clean Architecture, MVC, layered design  
-- DTO-based APIs, validation, centralized error handling  
-
-### Tooling
-Git · GitHub · Postman · Jira · Confluence · Docker (basic)
-
----
-
-## 🚀 Selected Projects
-
-### 🧩 Employee Management & Time Tracking System
-**Full Stack | FastAPI · MongoDB · React · TypeScript**
-
-- Developed end-to-end features in a production system used by real users  
-- Built backend APIs and frontend components collaboratively as part of a full stack flow  
-- Implemented background processing and alert mechanisms  
-- Built responsive React interfaces with centralized error handling and RTL support  
-- Supported MVP-to-production evolution without breaking existing functionality  
+### Data & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-000?&logo=microsoftsqlserver)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 
 ---
 
-### 🤖 AI-Powered Smart Learning Platform
-**MERN Stack | OpenAI API**
+## 🚀 Projects
 
-- Built a modular full stack learning platform  
-- Implemented backend services alongside React-based dashboards  
-- Integrated OpenAI API to generate dynamic learning content  
-- Added authentication, pagination, filtering, and validation  
+### 🧩 Employee Management System
+Full Stack | FastAPI · MongoDB · React  
+- Built production features used by real users  
+- Implemented APIs, background jobs & alert mechanisms  
+- Developed responsive UI with centralized error handling  
 
----
-
-### 🍕 Pizzeria & Photo Printing Management Systems
-**.NET Core · MVC · SQL Server**
-
-- Developed full stack, backend-driven systems  
-- Worked with layered MVC architecture and SQL Server persistence  
-- Delivered features iteratively in Agile team environments  
+### 🤖 AI Learning Platform
+MERN + OpenAI  
+- Dynamic content generation using AI  
+- Auth, filtering, pagination & validation   
 
 ---
 
-### 🛒 Retro E-Commerce Store
-**React · Redux · JavaScript**
-
-- Built an online store with product browsing, search, and cart management  
-- Implemented global state management using Redux  
-- Delivered a responsive, user-focused UI  
+## 🌱 Approach
+- System thinking — not just one layer  
+- Balance between backend robustness & UX  
+- Clean, maintainable, production-grade code  
 
 ---
 
-## 🌱 How I Approach Development
-
-- I look at the **entire system**, not just one layer  
-- I design solutions that balance backend robustness and frontend usability  
-- I prioritize clarity, maintainability, and collaboration  
-- I treat testing, validation, and error handling as part of the feature  
-
----
-
-## 📫 Get in Touch
-
-📧 **Email:** e8494128@gmail.com  
-💼 **GitHub:** https://github.com/elisheva1280  
-
-I'm looking for a **Full Stack role** where I can contribute across the stack, work on real production systems, and continue growing as a software engineer.
+## 📫 Contact
+📧 Email: e8494128@gmail.com  
+💻 GitHub: https://github.com/elisheva1280
