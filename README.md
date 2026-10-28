@@ -6,9 +6,9 @@ TypeScript · Node.js · NestJS · React · PostgreSQL · AWS · LLMs
 
 Software Developer at Bizz Technologies – an AI video-security and analytics platform.
 
-- **AI video-analytics service** – built from scratch as primary developer. Gemini compiles natural-language workflow definitions into schema-validated configurations that turn live camera events into structured records, a daily Excel report and WhatsApp alerts.
-- **Event-driven backend** – NestJS on AWS SQS with separate capture and analysis loops, NVR frame retrieval with bounded retries, idempotent processing, deduplication and per-field token and cost tracking.
-- **Full stack and mobile** – the service's React + TypeScript + MUI configuration wizard and records workspace, and the company's React Native app (iOS/Android) from the first commit to App Store and Google Play.
+- **AI video-analytics service** – built the core from scratch as primary developer. Workflow steps are written in natural language, and Gemini compiles them into per-field extraction prompts (structured JSON output) that are validated into an executable configuration. Live camera events become structured records, a daily Excel report and WhatsApp alerts on flagged values.
+- **Event-driven backend** – NestJS service consuming AWS SQS, with separate capture and analysis loops, NVR snapshot retrieval with bounded retries, Gemini Vision field extraction, deduplication of repeated and redelivered events, and token and cost tracking per record and per project per day.
+- **Full stack and mobile** – the service's React + TypeScript + MUI interface: a multi-step configuration wizard, a records workspace with live refresh, and session views with frames and masks. Led development of the company's React Native app (iOS/Android), from the first commit to App Store and Google Play releases.
 
 ## Tech
 
