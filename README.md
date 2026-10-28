@@ -1,64 +1,24 @@
-# 👋 Elisheva Cohen
-**Full Stack & Mobile Developer**
+# Elisheva Cohen – Full Stack Developer
 
-Building production systems used by real users, with a focus on scalable backend APIs and modern mobile applications.
+TypeScript · Node.js · NestJS · React · PostgreSQL · AWS · LLMs
 
----
+## What I build at work
 
-## ⚡ Current Focus
-Working on real-world applications in an Agile environment, developing mobile apps with React Native and backend services with Node.js.  
-Focused on building reliable systems, clean APIs, and maintainable code.
+Software Developer at Bizz Technologies – an AI video-security and analytics platform.
 
----
+- **AI video-analytics service** – built from scratch as primary developer. Gemini compiles natural-language workflow definitions into schema-validated configurations that turn live camera events into structured records, a daily Excel report and WhatsApp alerts.
+- **Event-driven backend** – NestJS on AWS SQS with separate capture and analysis loops, NVR frame retrieval with bounded retries, idempotent processing, deduplication and per-field token and cost tracking.
+- **Full stack and mobile** – the service's React + TypeScript + MUI configuration wizard and records workspace, and the company's React Native app (iOS/Android) from the first commit to App Store and Google Play.
 
-## 🧠 Core Skills
-- Designing and implementing REST APIs with clear contracts  
-- Building end-to-end features across backend and mobile  
-- Managing application state and async flows  
-- Implementing authentication, validation, and business logic  
-- Writing clean, structured, production-ready code  
+## Tech
 
----
+TypeScript · JavaScript · Python · SQL · Node.js · NestJS · FastAPI · Prisma · React · React Native · MUI · React Query · React Router · Vite · PostgreSQL · MongoDB · Redis · AWS (SQS, S3, Cognito, SMS, CloudWatch) · Firebase Cloud Messaging · Gemini & Gemini Vision · Zod · Jest
 
-## 🛠 Tech Stack
+## Projects
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+- [smartLearning](https://github.com/elisheva1280/smartLearning-miniMVP) – full stack TypeScript learning platform with the OpenAI API
+- [LiveMatrix](https://github.com/elisheva1280/LiveMatrix) – Windows RTSP viewer in C++20, Qt 6 and GStreamer
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react)
+## Contact
 
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-
-**Data & Tools**
-![SQL Server](https://img.shields.io/badge/-SQL_Server-000?&logo=microsoftsqlserver)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-
----
-
-## 🚀 Selected Project
-
-### 🤖 AI Learning Platform
-**MERN + OpenAI**
-- Built a full stack platform for dynamic content generation  
-- Integrated AI-based learning flows  
-- Implemented authentication, validation, filtering & pagination  
-- Designed modular, scalable architecture  
-
----
-
-## 🧩 Engineering Approach
-- I focus on systems, not isolated features  
-- I design for maintainability and long-term scalability  
-- I treat validation, error handling, and edge cases as core parts of development  
-- I aim for clarity — in code, architecture, and communication  
-
----
-
-## 📫 Contact
-📧 Email: e8494128@gmail.com  
-💻 GitHub: https://github.com/elisheva1280
+[e8494128@gmail.com](mailto:e8494128@gmail.com) · [github.com/elisheva1280](https://github.com/elisheva1280)
